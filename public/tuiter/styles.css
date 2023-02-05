@@ -1,0 +1,31 @@
+body {
+    background: black;
+    position: relative;
+    margin-left: 16px;
+    max-width: 48em;
+    font-family: sans-serif;
+}
+/* Secondary Hex: #6e767d */
+/*Heart Hex: #e0255e */
+.wd-secondary-text {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+}
+
+.wd-author-text {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.wd-border-grey {
+    border: 1px solid rgb(47, 51, 54);
+}
+
+.wd-pad-top {
+    padding-top: 5px;
+}
+
+.wd-border-top {
+    border-top: 1px solid rgb(47, 51, 54);
+}

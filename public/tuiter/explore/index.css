@@ -1,0 +1,82 @@
+.wd-search {
+    border-radius: 10px;
+    padding-left: 20px;
+    background: #212327;
+    color: rgb(110, 118, 125);
+    border: none;
+    height: 24px;
+    width: 90%;
+}
+
+.wd-search-container {
+    padding: 10px 16px 0px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wd-search-container img, .wd-search-container a {
+    height: 16px;
+}
+
+.wd-navigation-containter {
+    padding: 5px 0px;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    border-bottom: 1px solid rgb(47, 51, 54);
+}
+
+.wd-nav-item {
+    position: relative;
+    padding: 16px;
+}
+
+.wd-link {
+    display: inline-block;
+    color:rgb(110, 118, 125);
+    font-size: 15px;
+    line-height: 42px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.wd-link-active {
+    color: rgb(29, 161, 242);
+    border-bottom: 3px solid rgb(29, 161, 242);
+}
+
+.wd-spacer {
+    height: 10px;
+    background:#212327;
+}
+
+.wd-tuit-container {
+    padding: 10px 16px;
+    color: white;
+    border-bottom: 1px solid rgb(47, 51, 54);
+}
+
+.wd-tuit-title {
+    font-weight: bold;
+    padding: 5px 0;
+}
+
+.wd-tuit-small-primary-text {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.wd-img-tuit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wd-tuit-image img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+

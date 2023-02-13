@@ -1,10 +1,17 @@
+.btn {
+    border-radius: 1.5rem;
+}
+
+.rounded {
+    border-radius: 1.25rem !important;
+}
+
 .wd-search {
-    border-radius: 10px;
-    padding-left: 20px;
-    background: #212327;
+    border-radius: 30px;
+    padding-left: 35px;
+    /*background: #212327;*/
     color: rgb(110, 118, 125);
     border: none;
-    height: 24px;
     width: 90%;
 }
 
